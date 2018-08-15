@@ -12,7 +12,7 @@ It is also possible to encounter models with $\bf{interactions}$. Interactions i
 Consider a case where a researcher wants to study factors affecting the performance of a student in school. The researcher may be interested in determine if longer learning hours improve performance and if children from higher economic background perform better. This two factors are referred to as the main effects of the experiment. In this case confounding may occur where the child understudy puts long hours on study and also comes from a wealthy background. This two factors may favor or disfavor the child.
 #### ***How to determine interactions
 
-$$ \hat{y} =b_0 + b_1x_1+b_2x_2 +$$
+$$ \hat{y} =b_0 + b_1x_1+b_2x_2 +b_{122$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzMTgzNzQ4LC01MTYzMzAxMjFdfQ==
+eyJoaXN0b3J5IjpbOTA3MjM1MDg5LC01MTYzMzAxMjFdfQ==
 -->
