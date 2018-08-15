@@ -14,8 +14,8 @@ Consider a case where a researcher wants to study factors affecting the performa
 The equation below shows a model that has interaction
 
 $$ \hat{y} =b_0 + b_1x_1+b_2x_2 +b_{12}x_1x_2$$
-It is important to distinguish between interaction and confonding. In confounding, the effects of one variable are not distingishable from the effects of an
+It is important to distinguish between interaction and confonding. In confounding, the effects of one variable are not distingishable from the effects of anot
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkyODIzODIsMTEzNDM5MjkyLDE3Nj
-Y5NTkxMCwtNTE2MzMwMTIxXX0=
+eyJoaXN0b3J5IjpbNzc1OTE5ODUzLC0xMzA5MjgyMzgyLDExMz
+QzOTI5MiwxNzY2OTU5MTAsLTUxNjMzMDEyMV19
 -->
