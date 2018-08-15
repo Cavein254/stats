@@ -11,9 +11,10 @@ It is also possible to encounter models with $\bf{interactions}$. Interactions i
 ### Example
 Consider a case where a researcher wants to study factors affecting the performance of a student in school. The researcher may be interested in determine if longer learning hours improve performance and if children from higher economic background perform better. This two factors are referred to as the main effects of the experiment. In this case confounding may occur where the child understudy puts long hours on study and also comes from a wealthy background. This two factors may favor or disfavor the child.
 #### ***How to determine interactions
+The equation below shows a model that has intetaraction
 
-$$ \hat{y} =b_0 + b_1x_1+b_2x_2 +b_{12}$$
+$$ \hat{y} =b_0 + b_1x_1+b_2x_2 +b_{12}x_1x_2$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Njk1OTEwLDkwNzIzNTA4OSwtNTE2Mz
-MwMTIxXX0=
+eyJoaXN0b3J5IjpbLTExNjY4MzQ4MjEsMTc2Njk1OTEwLC01MT
+YzMzAxMjFdfQ==
 -->
