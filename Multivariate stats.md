@@ -10,10 +10,9 @@ It is important to note that the term linear in MLR refers to the $b$ i.e the eq
 It is also possible to encounter models with $\bf{interactions}$. Interactions in a model simply means that the effects of one variable on the response variable when it interacts with another.
 ### Example
 Consider a case where a researcher wants to study factors affecting the performance of a student in school. The researcher may be interested in determine if longer learning hours improve performance and if children from higher economic background perform better. This two factors are referred to as the main effects of the experiment. In this case confounding may occur where the child understudy puts long hours on study and also comes from a wealthy background. This two factors may favor or disfavor the child.
+#### ***How to determine interactions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIwNjc5MjIsNDg0MjI0MDEwLDg5Mj
-E4ODYwMywyMDUzMDY0ODMyLC00MTMwMDY0LC0xODE1MTUwNjks
-NTcwNTI1NzM0LC05NjE4OTc4M119
+eyJoaXN0b3J5IjpbLTUxNjMzMDEyMV19
 -->
