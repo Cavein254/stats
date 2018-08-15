@@ -9,12 +9,11 @@ The best way to view the data is by use of a $\bf {scatter}$ $\bf{ plot}$ $\bf{m
 It is important to note that the term linear in MLR refers to the $b$ i.e the equation is linear in the $b$-parameter.
 It is also possible to encounter models with $\bf{interactions}$. Interactions in a model simply means that the effects of one variable on the response variable when it interacts with another.
 ### Example
-Consider a case where a researcher wants to study factors affecting the performance of a student in school. Definitely, the level of parents education is a confounding factor as it affects the overall outcome of the experiment. This can be seen as the main effect. There are other factors as age of the child, when the child joined school among others that may have a confounding effect.
-
+Consider a case where a researcher wants to study factors affecting the performance of a student in school. The researcher may be intrested in determing how 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc0NTUwMTgsNDg0MjI0MDEwLDg5Mj
-E4ODYwMywyMDUzMDY0ODMyLC00MTMwMDY0LC0xODE1MTUwNjks
-NTcwNTI1NzM0LC05NjE4OTc4M119
+eyJoaXN0b3J5IjpbMjYyNDU2NDEwLDQ4NDIyNDAxMCw4OTIxOD
+g2MDMsMjA1MzA2NDgzMiwtNDEzMDA2NCwtMTgxNTE1MDY5LDU3
+MDUyNTczNCwtOTYxODk3ODNdfQ==
 -->
