@@ -3,9 +3,10 @@ The main difference between MLR and SLR is in the number of predictors. In the c
 $$\hat{y} = b_0 + b_1x $$
 
 
-MLR differs as it uses multiple predictors to determine the value of $y$.
+MLR differs as it uses multiple predictors in it's equation.
+$$\hat{y} = b_0 + b_1x_1 + \dots 
 The best way to view the data is by use of a $\bf {scatter plot matrix}$ that shows the relationship between the predictors.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTMyODI2NywtMTgxNTE1MDY5LDU3MD
+eyJoaXN0b3J5IjpbLTY1MTAyOTc4NywtMTgxNTE1MDY5LDU3MD
 UyNTczNCwtOTYxODk3ODNdfQ==
 -->
