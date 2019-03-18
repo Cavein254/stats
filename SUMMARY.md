@@ -1,4 +1,1 @@
-# Summary
-
-* [Introduction](README.md)
-
+It differs from the normal linear regression as it does not try to predict the value  of a variable rather it determines the likelyhood(probability) of that input bbelonging to the a given class. 
